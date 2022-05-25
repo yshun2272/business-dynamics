@@ -1,4 +1,4 @@
-Time,Shipment Rate,Desired Shipment Rate,Inventory Coverage,Inventory,Desired Inventory,Desired Production,Production Rate,WIP Inventory,Desired WIP,Inventory Coverage,Order Fulfillment Ratio,WIP Coverage
+Time,Actual Shipment,Desired Shipment,Inventory Coverage,Actual Inventory,Desired Inventory,Desired Production,Actual Production,Actual WIP,Desired WIP,Inventory Coverage,Order Fulfillment Ratio,WIP Coverage
 0,10000,10000,4,40000,40000,10000,10000,80000,80000,4,1,8
 0.1,10000,10000,4,40000,40000,10000,10000,80000,80000,4,1,8
 0.2,10000,10000,4,40000,40000,10000,10000,80000,80000,4,1,8
