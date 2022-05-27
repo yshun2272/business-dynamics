@@ -1,4 +1,4 @@
-Time,Desired Shipment Rate,Shipment Rate,Production Start Rate,Desired Production Start Rate,WIP Inventory,Desired WIP,Production Rate,Desired Production,Inventory,Desired Inventory
+Time,Actual Shipment,Desired Shipment,Production Start,Desired Production Start,Actual WIP,Desired WIP,Actual Production,Desired Production,Actual Inventory,Desired Inventory
 0,10000,10000,10000,10000,80000,80000,10000,10000,40000,40000
 0.1,10000,10000,10000,10000,80000,80000,10000,10000,40000,40000
 0.2,10000,10000,10000,10000,80000,80000,10000,10000,40000,40000
